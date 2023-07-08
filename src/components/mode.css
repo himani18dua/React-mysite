@@ -1,0 +1,16 @@
+
+.App.dark {
+    background-color: #333; /* Dark mode background color */
+    color: #f5f5f5; /* Dark mode text color */
+  }
+.App.light{
+    background-color: antiquewhite;
+    color:#967E76;
+}
+.p.light{
+
+        color: #915925;
+}
+.p.dark{
+    color:#f5f5f5;
+}
